@@ -15,12 +15,13 @@ At the same time, programs developed in Julia have performance comparable to C.
 
 
 **Installation instructions**
-Installation instructions can be found in [materials for the day 1](Day-1 Optimization and mathematical programming in Julia with applications to spatial data/)
+Installation instructions can be found in materials for the day 1.
 
 Once installed the code can be run as
 ```
 using Pkg
 Pkg.activate(".") # assumes running the code in the main folder of this repository
+Pkg.instantiate() # needed only when run for the first time 
 using IJulia
 ENV["JULIA_NUM_THREADS"]=4
 notebook(dir=".")
