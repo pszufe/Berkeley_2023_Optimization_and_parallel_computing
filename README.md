@@ -1,11 +1,10 @@
-# Berkeley, CA, Day-1 Optimization and mathematical programming with applications to spatial data & scaling up computations in Julia
+# Optimization and mathematical programming with applications to spatial data & scaling up computations in Julia
 **Dates:** Nov 20 & 21, 2023
 
 **Time:**  10:30am-noon; 1:30pm-3pm
 
 **Location**: University of California, Berkeley, CA, USA
 
-**Room:** TBA.
 
 Data analysis has become one of the core processes in virtually any professional activity. 
 The collection of data becomes easier and less expensive, so we have ample access to it.
