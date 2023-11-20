@@ -1,24 +1,44 @@
-# Optimization and mathematical programming with applications to spatial data & scaling up computations in Julia
+**1. Optimization and mathematical programming with applications to spatial data** <br/>
+**2. Scaling up computations in Julia**
+
 **Dates:** Nov 20 & 21, 2023
 
-**Time:**  10:30am-noon; 1:30pm-3pm
+**Time:**  10:30am-noon; 1:30pm-3pm PST
 
-**Location**: University of California, Berkeley, CA, USA
+**Location**:<br/> 
+  &nbsp; University of California, Berkeley, CA, USA<br/>
+  &nbsp; Simons Laufer Mathematical Sciences Institute  <br/>
+  &nbsp; Eisenbud Auditorium<br/>
 
 
 Data analysis has become one of the core processes in virtually any professional activity. 
 The collection of data becomes easier and less expensive, so we have ample access to it.
-
 The Julia language which was designed to address the typical challenges that data scientists 
 face when using other tools. Julia, like Python, supports an efficient and convenient development process. 
 At the same time, programs developed in Julia have performance comparable to C.
 
+This workshop consists of two parts:
 
-**Installation instructions**
-Installation instructions can be found in materials for the day 1.
+### 1. Optimization and mathematical programming in Julia with applications to spatial data (Monday)
 
-Once installed the code can be run as
-```
+The Julia programming language boasts a specialized development in mathematical programming models, centered around the robust JuMP.jl ecosystem. It offers a comprehensive and user-friendly suite of packages tailored for various optimization problems, including LP, MILP, MINLP, QP, and SOCP. The JuMP.jl platform serves as a cohesive, Julia-based domain-specific language for mathematical programming, compatible with over 40 solvers. This suite encompasses all leading commercial packages, significant Open Source options, and solvers natively written in Julia.
+
+This lecture will navigate you through the intricate JuMP.jl ecosystem, from constructing basic optimization models to the advanced optimization of transportation systems.
+
+### 2. Scaling up numerical computing in Julia (Tuesday)
+
+Writing code that seamlessly scales from an individual workstation to a supercomputing cluster is a complex task. In this tutorial, we will guide you on crafting efficient and high-performance code in Julia. We'll begin by identifying common pitfalls that can severely impact performance, such as type instability, the utilization of parametric types, and optimal data layout in memory.
+
+Subsequently, we'll delve into techniques for scaling your code. We'll explore single instruction-multiple data (SIMD) operations, then progress to the use of green threads to enhance the performance of I/O processing. Following that, we'll demonstrate the principles of multithreading. The final stage of our journey will cover multiprocessing and the intricacies of massively parallel and distributed computing.
+
+This workshop will be enriched with practical examples of parallelization patterns that are broadly applicable across various numerical computing endeavors.
+
+
+### Installation instructions
+Detailed installation instructions can be found in materials for the day 1.
+
+If you have Julia installed and running this should be sufficient:
+```julia
 using Pkg
 Pkg.activate(".") # assumes running the code in the main folder of this repository
 Pkg.instantiate() # needed only when run for the first time 
@@ -28,7 +48,7 @@ notebook(dir=".")
 ```
 
 
-**Schedule** (all times are EST time zone)
+**Schedule** (all times are PST time zone)
 
 <table>
 <tr><td><b>Day 1 (Monday, Nov 20, 2023)</b></td><td>11am-noon & 1:30pm-3pm</td><td>Optimization and mathematical programming in Julia with applications to spatial data</td></tr>
@@ -41,3 +61,5 @@ This course has been supported by the Polish  National Agency for Academic Excha
 
 
 ![img](nawalogo.png)
+
+<br/>
