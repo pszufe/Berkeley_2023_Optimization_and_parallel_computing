@@ -53,8 +53,8 @@ notebook(dir=".")
 **Schedule** (all times are PST time zone)
 
 <table>
-<tr><td><b>Day 1 (Monday, Nov 20, 2023)</b></td><td>11am-noon & 1:30pm-3pm</td><td>Optimization and mathematical programming in Julia with applications to spatial data</td></tr>
-<tr><td><b>Day 2 (Tuesday, Nov 21, 2023)</b></td><td>11am-noon & 1:30pm-3pm</td><td>Scaling up numerical computing in Julia</td></tr>
+<tr><td><b>Day 1 (Monday, Nov 20, 2023)</b></td><td>10:30am-noon & 1:30pm-3pm</td><td>Optimization and mathematical programming in Julia with applications to spatial data</td></tr>
+<tr><td><b>Day 2 (Tuesday, Nov 21, 2023)</b></td><td>10:30am-noon & 1:30pm-3pm</td><td>Scaling up numerical computing in Julia</td></tr>
 </table>
 
 
