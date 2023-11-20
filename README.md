@@ -3,6 +3,8 @@
 **1. Optimization and mathematical programming with applications to spatial data** <br/>
 **2. Scaling up computations in Julia**
 
+**Instructor:** Przemysław Szufel
+
 **Dates:** Nov 20 & 21, 2023
 
 **Time:**  10:30am-noon; 1:30pm-3pm PST
