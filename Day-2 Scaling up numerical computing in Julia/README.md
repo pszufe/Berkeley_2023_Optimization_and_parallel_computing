@@ -1,5 +1,16 @@
 # Scaling up numerical computing in Julia
 
+**Instructor:** Przemysław Szufel
+
+**Date:** Nov 21, 2023
+
+**Time:**  10:30am-noon; 1:30pm-3pm PST
+
+**Location**:<br/> 
+  &nbsp; University of California, Berkeley, CA, USA<br/>
+  &nbsp; Simons Laufer Mathematical Sciences Institute  <br/>
+  &nbsp; Eisenbud Auditorium<br/>
+
 ## Course content
 
 1. Basic performance tips
