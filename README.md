@@ -1,3 +1,5 @@
+### "Optimization and high performance computing in Julia" - 2 day workshop
+
 **1. Optimization and mathematical programming with applications to spatial data** <br/>
 **2. Scaling up computations in Julia**
 
@@ -19,13 +21,13 @@ At the same time, programs developed in Julia have performance comparable to C.
 
 This workshop consists of two parts:
 
-### 1. Optimization and mathematical programming in Julia with applications to spatial data (Monday)
+### 1. Optimization and mathematical programming in Julia with applications to spatial data (Monday, Nov, 20)
 
 The Julia programming language boasts a specialized development in mathematical programming models, centered around the robust JuMP.jl ecosystem. It offers a comprehensive and user-friendly suite of packages tailored for various optimization problems, including LP, MILP, MINLP, QP, and SOCP. The JuMP.jl platform serves as a cohesive, Julia-based domain-specific language for mathematical programming, compatible with over 40 solvers. This suite encompasses all leading commercial packages, significant Open Source options, and solvers natively written in Julia.
 
 This lecture will navigate you through the intricate JuMP.jl ecosystem, from constructing basic optimization models to the advanced optimization of transportation systems.
 
-### 2. Scaling up numerical computing in Julia (Tuesday)
+### 2. Scaling up numerical computing in Julia (Tuesday, Nov, 21)
 
 Writing code that seamlessly scales from an individual workstation to a supercomputing cluster is a complex task. In this tutorial, we will guide you on crafting efficient and high-performance code in Julia. We'll begin by identifying common pitfalls that can severely impact performance, such as type instability, the utilization of parametric types, and optimal data layout in memory.
 
