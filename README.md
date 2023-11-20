@@ -7,7 +7,9 @@
 
 **Dates:** Nov 20 & 21, 2023
 
-**Time:**  10:30am-noon; 1:30pm-3pm PST
+**Time:**  
+  &nbsp; Monday: 10:30am-noon; 1:30pm-3pm PST
+  &nbsp; Tuesday: 9:30am-11am; 1:30pm-3pm PST
 
 **Location**:<br/> 
   &nbsp; University of California, Berkeley, CA, USA<br/>
@@ -56,7 +58,7 @@ notebook(dir=".")
 
 <table>
 <tr><td><b>Day 1 (Monday, Nov 20, 2023)</b></td><td>10:30am-noon & 1:30pm-3pm</td><td>Optimization and mathematical programming in Julia with applications to spatial data</td></tr>
-<tr><td><b>Day 2 (Tuesday, Nov 21, 2023)</b></td><td>10:30am-noon & 1:30pm-3pm</td><td>Scaling up numerical computing in Julia</td></tr>
+<tr><td><b>Day 2 (Tuesday, Nov 21, 2023)</b></td><td>9:30am-11am & 1:30pm-3pm</td><td>Scaling up numerical computing in Julia</td></tr>
 </table>
 
 
